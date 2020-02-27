@@ -19,7 +19,7 @@
           <boolProp name="TransactionController.parent">true</boolProp>
         </TransactionController>
         <hashTree>
-          <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config" enabled="true">
+          <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Confg" enabled="true">
             <stringProp name="filename">C:/Users/dharmpratap/Desktop/csv_data.txt</stringProp>
             <stringProp name="fileEncoding"></stringProp>
             <stringProp name="variableNames">inputName, address, city, state,  zipCode, cardType, creditCardNumber, creditCardMonth, creditCardYear, nameOnCard, rememberMe</stringProp>
